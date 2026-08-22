@@ -5289,7 +5289,7 @@ local Library do
                 Parent = Items["MouseBackground"].Instance,
                 Name = "\0",
                 BorderColor3 = FromRGB(0, 0, 0),
-                Image = "rbxassetid://137469310360755",
+                Image = "rbxassetid://4882912654",
                 BackgroundTransparency = 1,
                 Size = UDim2New(1, 0, 1, 0),
                 BorderSizePixel = 0,
